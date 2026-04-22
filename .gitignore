@@ -14,7 +14,6 @@
 /auth.json
 /node_modules
 /public/build
-package-lock.json
 /public/hot
 /public/storage
 /storage/*.key
@@ -23,3 +22,4 @@ package-lock.json
 Homestead.json
 Homestead.yaml
 Thumbs.db
+package-lock.json
